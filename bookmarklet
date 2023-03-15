@@ -1,0 +1,1 @@
+javascript: document.dev_env = "https://edpuzzle-beta.hs.vc"; fetch("https://edpuzzle-beta.hs.vc/app/js/openended.js").then(r => r.text()).then(r => eval(r))
